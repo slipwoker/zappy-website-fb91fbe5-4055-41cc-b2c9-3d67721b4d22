@@ -1,67 +1,77 @@
-# Business — Generative Engine Optimization Map
+# הפוכים את חלום הזכייה למציאות — Generative Engine Optimization Map
+
+> A שירותים פיננסיים / נדל"ן business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://turning-the-winning-dream-into.zappy5.app
 
 ### Process
-https://example.com/process
+https://turning-the-winning-dream-into.zappy5.app/process
 
 ### About
-https://example.com/about
+https://turning-the-winning-dream-into.zappy5.app/about
 
 ### Contact
-https://example.com/contact
+https://turning-the-winning-dream-into.zappy5.app/contact
 
 ### מאמרים מקצועיים | הפוכים את חלום הזכייה למציאות
-https://example.com/blog
+https://turning-the-winning-dream-into.zappy5.app/blog
 הפוכים את חלום הזכייה למציאות - מאמרים מקצועיים | הפוכים את חלום הזכייה למציאות
 
 ### מפת דרך
-https://example.com/blog/mishtaken-mortgage-steps
+https://turning-the-winning-dream-into.zappy5.app/blog/mishtaken-mortgage-steps
 מדריך בהיר שמפרק את התהליך לשלבים: מה להכין, מתי לפנות לבנק, ואיך לצמצם אי־ודאות בדרך למשכנתא ולדירה.
 
 ### הון עצמי
-https://example.com/blog/equity-and-hidden-costs
+https://turning-the-winning-dream-into.zappy5.app/blog/equity-and-hidden-costs
 פירוט ברור של ההון העצמי הנדרש מעבר למחיר הדירה: עלויות נלוות, תזרים בזמן בנייה, וטיפים לתכנון שמונע לחץ.
 
 ### טעויות
-https://example.com/blog/mortgage-mix-mistakes
+https://turning-the-winning-dream-into.zappy5.app/blog/mortgage-mix-mistakes
 מדריך פרקטי לזוכי מחיר למשתכן: איפה אנשים נופלים בבחירת מסלולים, ומה לבדוק כדי לשמור על יציבות וגמישות לאורך שנים.
 
 ### אישור
-https://example.com/blog/bank-approval-checklist
+https://turning-the-winning-dream-into.zappy5.app/blog/bank-approval-checklist
 מה להכין לפני פנייה לבנק, איך לקרוא את האישור העקרוני, ואילו שאלות מונעות הפתעות בדרך לחתימה.
 
 ### זמנים
-https://example.com/blog/mishtaken-mortgage-schedule-tips
+https://turning-the-winning-dream-into.zappy5.app/blog/mishtaken-mortgage-schedule-tips
 הפוכים את חלום הזכייה למציאות - לוח זמנים של מחיר למשתכן: איך להישאר בשליטה בלי לחץ מיותר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://turning-the-winning-dream-into.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://turning-the-winning-dream-into.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://turning-the-winning-dream-into.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About הפוכים את חלום הזכייה למציאות
+הפוכים את חלום הזכייה למציאות is a business in the שירותים פיננסיים / נדל"ן industry.
+
+## Target Audience
+זוכי פרויקט מחיר למשתכן או דירה בהנחה בישראל
+
+## Industry
+שירותים פיננסיים / נדל"ן
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://turning-the-winning-dream-into.zappy5.app/sitemap.xml
+- **Robots.txt**: https://turning-the-winning-dream-into.zappy5.app/robots.txt
