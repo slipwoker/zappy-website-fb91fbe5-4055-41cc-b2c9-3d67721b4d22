@@ -73,11 +73,70 @@
   opacity: 0.7;
 }</style>
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
-<!-- Zappy Analytics -->
+<style>
+      /* Dropdown sub-menu styles (AI-generated page) */
+      .nav-menu li:has(.sub-menu),
+      nav li:has(.sub-menu),
+      .navbar li:has(.sub-menu) {
+        position: relative;
+      }
+      .nav-menu .sub-menu,
+      nav .sub-menu,
+      .navbar .sub-menu {
+        display: block;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        min-width: 220px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        padding: 8px 0;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
+        transition: all 0.3s ease;
+        z-index: 1000;
+        list-style: none;
+        pointer-events: none;
+      }
+      .nav-menu li:hover > .sub-menu,
+      nav li:hover > .sub-menu,
+      .navbar li:hover > .sub-menu {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+        pointer-events: auto;
+      }
+      .sub-menu li {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      .sub-menu a {
+        display: block;
+        padding: 10px 16px;
+        color: #333;
+        font-weight: 500;
+        text-decoration: none;
+        white-space: nowrap;
+        transition: background-color 0.2s;
+      }
+      .sub-menu a:hover {
+        background-color: #f5f5f5;
+      }
+      /* RTL dropdown positioning */
+      [dir="rtl"] .sub-menu,
+      html[lang="he"] .sub-menu,
+      html[lang="ar"] .sub-menu {
+        left: auto;
+        right: 0;
+      }
+    </style><!-- Zappy Analytics -->
 <script>
 (function() {
   'use strict';
@@ -347,12 +406,12 @@
   <div class="nav-container">
     <div class="nav-right-group"><div class="nav-brand">
       <a href="/" class="logo-link">
-        <img src="/assets/business-logo.webp" alt="הפוכים את חלום הזכייה למציאות" class="logo" />
+        <img src="/assets/business-logo.webp" alt="הפוכים את חלום הזכייה למציאות" class="logo">
       </a>
     </div><ul class="nav-menu" id="navMenu">
       <li><a href="/process">תהליך</a></li>
       <li><a href="/about">אודות</a></li>
-    </ul></div>
+    <li><a href="/blog" class="nav-link">בלוג</a><ul class="sub-menu"><li><a href="/blog/mishtaken-mortgage-steps" class="nav-link">מפת דרך</a></li><li><a href="/blog/equity-and-hidden-costs" class="nav-link">הון עצמי</a></li><li><a href="/blog/mortgage-mix-mistakes" class="nav-link">טעויות</a></li><li><a href="/blog/bank-approval-checklist" class="nav-link">אישור</a></li><li><a href="/blog/mishtaken-mortgage-schedule-tips" class="nav-link">זמנים</a></li></ul></li></ul></div>
     
     
     
@@ -764,7 +823,7 @@
     <section class="home-hero-section" data-layout-spec="Home-hero">
   <div class="hero-container">
     <div class="hero-content">
-      <h1 class="hero-title">הפכנו את חלום הזכייה למציאות מאובטחת</h1>
+      <h1 class="hero-title">הפכנו את חלום הזכייה למציאות&nbsp;</h1>
       <p class="hero-description">אנחנו מסירים את אי הוודאות מתהליך המשכנתא. ליווי מקצועי שמביא אתכם בביטחון לבית החדש.</p>
       <div class="hero-ctas">
         <a href="/contact" class="btn-primary">דברו עם יועץ</a>
@@ -857,7 +916,7 @@
   <div class="journey-container">
     <div class="journey-intro">
       <h2>המסלול שלך, ממופה בבירור</h2>
-      <p>התהליך מחולק לשלבים פשוטים עם תוצאות צפויות. כל צעד מוביל אותך קדימה בביטחון לקראת המטרה - הבית שלך.</p>
+      <p><font color="#1a1a1a">התהליך מחולק לשלבים פשוטים עם תוצאות צפויות. כל צעד מוביל אותך קדימה בביטחון לקראת המטרה - הבית שלך.</font></p>
     </div>
     
     <div class="timeline-wrapper">
@@ -1097,7 +1156,7 @@
   <div class="footer-container">
     <div class="footer-grid">
       <div class="footer-column footer-about">
-        <img src="/assets/business-logo.webp" alt="הפוכים את חלום הזכייה למציאות" class="logo" />
+        <img src="/assets/business-logo.webp" alt="הפוכים את חלום הזכייה למציאות" class="logo">
         <p class="footer-description">מובילים את הדרך להפוך את חלום הזכייה שלכם למציאות. שירותים פיננסיים ונדל"ן מקצועיים ואמינים.</p>
         <div class="footer-social">
           <a href="[facebook_handle]" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
